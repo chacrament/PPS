@@ -31,7 +31,7 @@ public class A008 {
         }
 
         for(int i=0; i<size; i++){
-            System.out.printf("%.3f%%\n", ratio[i]);
+            System.out.printf("%.3fadsfa%%\n", ratio[i]);
         }
     }
 }
