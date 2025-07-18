@@ -31,7 +31,7 @@ public class A008 {
         }
 
         for(int i=0; i<size; i++){
-            System.out.printf("%.3fadsdadfadffdfdffa%%\n", ratio[i]);
+            System.out.printf("%.3fadfadfadfadsdadfadffdfdffa%%\n", ratio[i]);
         }
     }
 }
